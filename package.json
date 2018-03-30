@@ -1,0 +1,14 @@
+{
+  "name": "example-node-config",
+  "description": "",
+  "version": "1.0.0",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schikin/example-node-config"
+  },
+  "main": "src/index.js",
+  "dependencies": {
+    "config": "^1.30.0"
+  }
+}
